@@ -14,7 +14,7 @@ public class Block {
 
    Timestamp tsCreateTime;  //区块创建时间戳
 
-  
+   int s;
 
   
 
